@@ -2,4 +2,4 @@ Fork of the OpenSees source code repository (https://github.com/OpenSees/OpenSee
 
 Refactoring of the OpenSees code to support GPU Multithreading using NVIDIA's CUDA.
 
-Undergraduate research project under the guidance of Dr. Barbara Simpson at Oregon State University.
+Undergraduate research project under the guidance of Dr. Simpson at Oregon State University.
